@@ -1,0 +1,46 @@
+Kindly follow the following instructions:
+NOTE:Internet connection is mandatory for the program to run
+#Installation:
+
+1.To install the packages used in the program run the following commands on command prompt,
+	i)cd,file location of requirements.txt>
+		For Example:cd C:\Users\Comp\Desktop\CPROJ2020\requirements.txt
+	ii)pip install -r requirements.txt
+[Disclaimer:We haven't tried these commands on mac,so we are not quite sure this might work.
+ If it doesn't work kindly install these packages manually from "https://pypi.org/".Check the requirement.txt
+file to see the packages used.]
+
+#Execution:
+
+1.Before executing the code,kindly make these changes on the program for it to run on your system:
+	i)Lines 612,650&652:Change the passwd to your current database password i.eMySQl password.
+
+#Ordering and Selection:
+
+i)Login and Sign Up:
+
+1.Kindly give your original email address in case if you forget your password an otp will be sent to your email to create a new password.
+2.For easy login kindly click the "keep me signed in" button.
+
+ii)Food Selection:
+
+1.Select the cuisine you want to order food on.
+2.Enter the number of items and CLICK ADD TO CART BUTTON for all the food items you have selected each time.
+
+iii)Ordering:
+
+1.Finally after adding your desired food items to cart kindly click on generate bill to receive the invoice.
+2.There is also suggestions of food items from your previous food orders.If you want to reorder the food item,you can click 
+the order button on the left side of the suggestion.
+3.The bill will be generated in the program file directory.
+
+NOTE:
+1.Kindly don't spam click any of the buttons.
+2.You can click on the home button to find more options like tracking,about us,etc.
+3.Before ordering again and generating bill kindly close the bill.pdf and data.xlsx(in case you opened it )  of your previous order.It will give an error if these files are opened.
+4.Have some patience the program might take sometime to run.(Don't spam click run)
+
+#For more information check our website
+Currently in Beta testing(To know more check the video Instafood on your CPROJ2020 folder)
+
+
